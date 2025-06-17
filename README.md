@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Edward
 
-<!--
-**Edward12930234/Edward12930234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with a passion for building scalable web apps and tools that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express, Firebase, MongoDB
+- Tools: Git, GitHub, Docker, Vercel, Netlify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- [SocialWave](https://github.com/Edward12930234/socialwave) — Full-featured MERN social platform
+- [QuickShop](https://github.com/Edward12930234/quickshop) — E-commerce with Stripe & cart management
+- [NotePWA](https://github.com/Edward12930234/notepwa) — Offline note-taking app using PWA standards
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/edward)
